@@ -24,14 +24,6 @@ non-standardized text responses. The main objectives of this project are:
 
 ---
 
-## Project Status
-
-- [x] Notebook 1 — EDA and data understanding
-- [ ] Notebook 2 — Data preprocessing
-- [ ] Notebook 3 — Feature engineering
-- [ ] Notebook 4 — Dimensionality reduction
-- [ ] Notebook 5 — Clustering and visualization
-- [ ] Final report
 
 ---
 
