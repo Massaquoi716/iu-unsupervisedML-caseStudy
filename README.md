@@ -37,8 +37,8 @@ non-standardized text responses. The main objectives of this project are:
 ├── notebooks/
 │ ├── 01_eda_and_data_understanding.ipynb
 │ ├── 02_data_preprocessing.ipynb
-│ ├── 03_feature_engineering.ipynb # i decided to do dimensionality reduction here
-│ ├── 04_dimensionality_reduction.ipynb # I did clustering here
+│ ├── 03_feature_engineering_dimensionality_reduction.ipynb 
+│ ├── 04_clustering.ipynb
 │
 │
 ├── reports/
@@ -58,8 +58,8 @@ non-standardized text responses. The main objectives of this project are:
 | ---------------------------------------- | ------------------------------------------------------------------------ |
 | `01_eda_and_data_understanding.ipynb`    | Exploratory data analysis — distributions, missing values, associations |
 | `02_data_preprocessing.ipynb`            | Missing value handling, cleaning, and encoding                           |
-| `03_feature_engineering.ipynb`           | Feature creation, transformation, and selection                          |
-| `04_dimensionality_reduction.ipynb`      | PCA / MCA / other methods for dimensionality reduction                   |
+| `03_feature_engineering_dimensionality_reduction.ipynb`           | Feature creation, transformation,selection,PCA / MCA / other methods for dimensionality reduction                           |
+| `04_clustering.ipynb`      |      Clustering             |
 
 ---
 
@@ -175,8 +175,8 @@ the artifacts produced by the previous ones.
 
 1. `notebooks/01_eda_and_data_understanding.ipynb`
 2. `notebooks/02_data_preprocessing.ipynb`
-3. `notebooks/03_feature_engineering.ipynb`
-4. `notebooks/04_dimensionality_reduction.ipynb`
+3. `notebooks/03_feature_engineering_dimensionality_reduction.ipynb`
+4. `notebooks/04_clustering.ipynb`
 
 
 > **Note:** The `data/processed/` folder is generated automatically when
