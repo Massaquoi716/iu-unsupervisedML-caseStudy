@@ -43,7 +43,7 @@ non-standardized text responses. The main objectives of this project are:
 │
 ├── reports/
 │ ├── figures/ # Generated plots (PNG)
-│ └── 06_report.ipynb # Main academic report
+│ 
 │
 ├── .gitignore
 ├── requirements.txt
